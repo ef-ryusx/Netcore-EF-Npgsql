@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcore-EF-Npgsql", "Netcore-EF-Npgsql\Netcore-EF-Npgsql.csproj", "{7DA615D5-7C6A-43E9-896F-5D90BE2C0528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.NpgsqlEF", "Database.NpgsqlEF\Database.NpgsqlEF.csproj", "{CA7459DC-313B-4C5B-9D43-9A9255C755D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA615D5-7C6A-43E9-896F-5D90BE2C0528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA615D5-7C6A-43E9-896F-5D90BE2C0528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA615D5-7C6A-43E9-896F-5D90BE2C0528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA615D5-7C6A-43E9-896F-5D90BE2C0528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7459DC-313B-4C5B-9D43-9A9255C755D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7459DC-313B-4C5B-9D43-9A9255C755D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7459DC-313B-4C5B-9D43-9A9255C755D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7459DC-313B-4C5B-9D43-9A9255C755D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
